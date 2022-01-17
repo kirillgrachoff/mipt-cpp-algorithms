@@ -4,3 +4,6 @@
 - Residue (Z\_n algebra)
 - Deque
 - List
+- HashMap
+- SmartPointers
+- Variant
